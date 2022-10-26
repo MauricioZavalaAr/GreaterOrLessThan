@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\bin\Debug\net6.0\GreaterOrLessThan.exe
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\bin\Debug\net6.0\GreaterOrLessThan.deps.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\bin\Debug\net6.0\GreaterOrLessThan.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\bin\Debug\net6.0\GreaterOrLessThan.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\bin\Debug\net6.0\GreaterOrLessThan.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\refint\GreaterOrLessThan.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\GreaterOrLessThan.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\GreaterOrLesserThan\GreaterOrLessThan\obj\Debug\net6.0\ref\GreaterOrLessThan.dll
