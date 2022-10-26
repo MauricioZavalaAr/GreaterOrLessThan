@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GreaterOrLesserThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj": {}
+    "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauricioGreaterOrLessThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GreaterOrLesserThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj": {
+    "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauricioGreaterOrLessThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GreaterOrLesserThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj",
+        "projectUniqueName": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauricioGreaterOrLessThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj",
         "projectName": "GreaterOrLessThan",
-        "projectPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GreaterOrLesserThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj",
-        "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\GreaterOrLesserThan\\GreaterOrLessThan\\obj\\",
+        "projectPath": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauricioGreaterOrLessThan\\GreaterOrLessThan\\GreaterOrLessThan.csproj",
+        "packagesPath": "C:\\Users\\zerot\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zerot\\Documents\\Codestack\\PeerReviewsGitHub\\MauricioGreaterOrLessThan\\GreaterOrLessThan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zerot\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
